@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Estrutura do Projeto
 /saudefisica1 ├── /src │ ├── /screens │ │ ├── HomeScreen.tsx │ │ ├── TrainingSelectionScreen.tsx │ │ ├── CostasScreen.tsx │ │ ├── PeitoScreen.tsx │ │ ├── PernasScreen.tsx │ │ ├── BracosScreen.tsx │ │ ├── AbdomenScreen.tsx │ │ ├── CardioScreen.tsx │ │ ├── AlongamentoScreen.tsx │ │ ├── AddExerciseScreen.tsx │ │ ├── NewTrainingScreen.tsx │ │ ├── MinhasRotinasScreen.tsx │ │ └── RotinaDetalhesScreen.tsx │ ├── /navigation │ │ └── AppNavigator.tsx │ ├── App.tsx ├── package.json ├── tsconfig.json └── README.md
 
@@ -61,3 +62,6 @@ Nome: Carol Nakamura
 Email: carolknakamura@gmail.com
 
 GitHub: carolnakamura
+=======
+# Saude-Fisica---Treino
+>>>>>>> 004f3949d79b82a9153ff798e8c2d9b2bf89e08b
