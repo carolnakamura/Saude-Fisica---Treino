@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Saude Fisica
 Descrição
 É um aplicativo de treinamento físico que permite aos usuários selecionar, adicionar e detalhar rotinas de exercícios. Desenvolvido com React Native e TypeScript, o aplicativo utiliza React Navigation para navegação entre telas.
@@ -102,3 +103,6 @@ Nome: Seu Nome
 Email: seuemail@example.com
 
 GitHub: seu-usuario
+=======
+# SaudeFisica
+>>>>>>> fbfa2260f4edc5b4cef514906e1da73379f3540e
