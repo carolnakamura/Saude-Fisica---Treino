@@ -56,10 +56,10 @@ const styles = StyleSheet.create({
     alignItems: 'center',
   },
   sectionSpacing: {
-    marginBottom: 20, 
+    marginBottom: 15, 
   },
   buttonSpacing: {
-    marginHorizontal: 5,
+    marginHorizontal: 15,
   },
 });
 

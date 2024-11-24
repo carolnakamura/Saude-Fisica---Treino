@@ -1,66 +1,39 @@
-<<<<<<< HEAD
-Saude Fisica
-Descrição
-É um aplicativo de treinamento físico que permite aos usuários selecionar, adicionar e detalhar rotinas de exercícios. Desenvolvido com React Native e TypeScript, o aplicativo utiliza React Navigation para navegação entre telas.
-
 Estrutura do Projeto
-/saudefisica1
-  ├── /src
-  │   ├── /screens
-  │   │   ├── HomeScreen.tsx
-  │   │   ├── TrainingSelectionScreen.tsx
-  │   │   ├── CostasScreen.tsx
-  │   │   ├── PeitoScreen.tsx
-  │   │   ├── PernasScreen.tsx
-  │   │   ├── BracosScreen.tsx
-  │   │   ├── AbdomenScreen.tsx
-  │   │   ├── CardioScreen.tsx
-  │   │   ├── AlongamentoScreen.tsx
-  │   │   ├── AddExerciseScreen.tsx
-  │   │   ├── NewTrainingScreen.tsx
-  │   │   ├── MinhasRotinasScreen.tsx
-  │   │   └── RotinaDetalhesScreen.tsx
-  │   ├── /navigation
-  │   │   └── AppNavigator.tsx
-  │   ├── App.tsx
-  ├── package.json
-  ├── tsconfig.json
-  └── README.md
+/saudefisica1 ├── /src │ ├── /screens │ │ ├── HomeScreen.tsx │ │ ├── TrainingSelectionScreen.tsx │ │ ├── CostasScreen.tsx │ │ ├── PeitoScreen.tsx │ │ ├── PernasScreen.tsx │ │ ├── BracosScreen.tsx │ │ ├── AbdomenScreen.tsx │ │ ├── CardioScreen.tsx │ │ ├── AlongamentoScreen.tsx │ │ ├── AddExerciseScreen.tsx │ │ ├── NewTrainingScreen.tsx │ │ ├── MinhasRotinasScreen.tsx │ │ └── RotinaDetalhesScreen.tsx │ ├── /navigation │ │ └── AppNavigator.tsx │ ├── App.tsx ├── package.json ├── tsconfig.json └── README.md
 
 Instalação
-Pré-requisitos
+Pré-requisitos Node.js
 
-Node.js
 React Native CLI
+
 Android Studio (para desenvolvimento no Android)
+
 Xcode (para desenvolvimento no iOS)
-
 Passos
+
 Clone o repositório:
-    
-bash
-git clone https://github.com/seu-usuario/meuapp.git
-cd meuapp
-Instale as dependências:
+git clone https://github.com/carolnakamura/SaudeFisica.git cd SaudeFisica
 
-bash
+2.Instale as dependências:
+
 npm install
-Instale as dependências do React Navigation:
 
-bash
+3.Instale as dependências do React Navigation:
+
 npm install @react-navigation/native @react-navigation/native-stack react-native-screens react-native-safe-area-context
-Inicie o servidor de desenvolvimento:
 
-bash
+4.Inicie o servidor de desenvolvimento:
+
 npm start
-Para rodar no Android:
 
-bash
+5.Para rodar no Android:
+
 npm run android
-Para rodar no iOS:
 
-bash
+6.Para rodar no iOS:
+
 npm run ios
+
 Uso
 Home Screen
 A tela inicial do aplicativo, onde os usuários podem navegar para outras telas de seleção de treino.
@@ -81,28 +54,10 @@ src/navigation/AppNavigator.tsx: Configurações de navegação do aplicativo.
 
 src/screens/: Pasta contendo as telas do aplicativo.
 
-Contribuição
-Faça um fork do projeto.
+Contato Para mais informações, entre em contato:
 
-Crie uma branch para sua feature (git checkout -b feature/MinhaFeature).
+Nome: Carol Nakamura
 
-Commit suas mudanças (git commit -m 'Adiciona minha feature').
+Email: carolknakamura@gmail.com
 
-Faça um push para a branch (git push origin feature/MinhaFeature).
-
-Abra um Pull Request.
-
-Licença
-Este projeto está licenciado sob a Licença MIT - veja o arquivo LICENSE para detalhes.
-
-Contato
-Para mais informações, entre em contato:
-
-Nome: Seu Nome
-
-Email: seuemail@example.com
-
-GitHub: seu-usuario
-=======
-# SaudeFisica
->>>>>>> fbfa2260f4edc5b4cef514906e1da73379f3540e
+GitHub: carolnakamura

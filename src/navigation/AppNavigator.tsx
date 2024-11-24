@@ -1,19 +1,19 @@
 import React from 'react';
 import { NavigationContainer } from '@react-navigation/native';
 import { createNativeStackNavigator } from '@react-navigation/native-stack';
-import HomeScreen from 'src/screen/HomeScreen';
-import TrainingSelectionScreen from 'src/screen/TrainingSelectionScreen';
-import CostasScreen from 'src/screen/CostasScreen';
-import PeitoScreen from 'src/screen/PeitoScreen';
-import PernasScreen from 'src/screen/PernasScreen';
-import BracosScreen from 'src/screen/BracosScreen';
-import AbdomenScreen from 'src/screen/AbdomenScreen';
-import CardioScreen from 'src/screen/CardioScreen';
-import AlongamentoScreen from 'src/screen/AlongamentoScreen';
-import AddExerciseScreen from 'src/screen/AddExerciseScreen';
-import NewTrainingScreen from 'src/screen/NewTrainingScreen';
-import MinhasRotinasScreen from 'src/screen/MinhasRotinasScreen';
-import RotinaDetalhesScreen from 'src/screen/RotinaDetalhesScreen';
+import HomeScreen from 'screen/HomeScreen';
+import TrainingSelectionScreen from 'screen/TrainingSelectionScreen';
+import CostasScreen from 'screen/CostasScreen';
+import PeitoScreen from 'screen/PeitoScreen';
+import PernasScreen from 'screen/PernasScreen';
+import BracosScreen from 'screen/BracosScreen';
+import AbdomenScreen from 'screen/AbdomenScreen';
+import CardioScreen from 'screen/CardioScreen';
+import AlongamentoScreen from 'screen/AlongamentoScreen';
+import AddExerciseScreen from 'screen/AddExerciseScreen';
+import NewTrainingScreen from 'screen/NewTrainingScreen';
+import MinhasRotinasScreen from 'screen/MinhasRotinasScreen';
+import RotinaDetalhesScreen from 'screen/RotinaDetalhesScreen';
 
 interface Exercise {
   exerciseName: string;
